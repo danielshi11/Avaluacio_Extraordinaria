@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 public class vectorial  {
 	int [] total;
-
+/*asdasasdasdasd*/
 	public static void main(String[] args) {
 		///llamo a las varaibles del otra classe 
 		parametros vector = new parametros();
