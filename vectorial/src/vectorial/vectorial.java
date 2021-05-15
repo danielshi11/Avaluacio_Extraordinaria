@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 public class vectorial  {
 	int [] total;
-/*asdasasdasdasd*/
+
 	public static void main(String[] args) {
 		///llamo a las varaibles del otra classe 
 		parametros vector = new parametros();
@@ -44,7 +44,7 @@ public class vectorial  {
 		v4=vectorial.getResultado( );*/
 	}
 	/**
-	 * Este método suma
+	 * Este método es una  suma entre dos vectores de la mismo numero de elementos
 	 * @param - vector1
 	 * @param -  vector2
 	 */
