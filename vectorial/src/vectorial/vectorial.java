@@ -44,7 +44,7 @@ public class vectorial  {
 		v4=vectorial.getResultado( );*/
 	}
 	/**
-	 * Este método es una  suma entre dos vectores de la mismo numero de elementos
+	 *  Este método es una  suma entre dos vectores de la mismo numero de elementos con la ayuda de un for
 	 * @param - vector1
 	 * @param -  vector2
 	 */
@@ -72,7 +72,7 @@ public class vectorial  {
 	}
 	
 	/**
-	 * 
+	 *  Este método es una  suma entre tres vectores de la mismo numero de elementos con la ayuda de un for
 	 * @param vector1
 	 * @param vector2
 	 * @param vector3
@@ -105,7 +105,7 @@ public class vectorial  {
 		}
 		}	
 				/**
-				 * 
+				 *  Este método es una  res entre dos vectores de la mismo numero de elementos con la ayuda de un for
 				 * @param vector1
 				 * @param vector2
 				 */
@@ -131,7 +131,7 @@ public class vectorial  {
 		}
 			}
 		/**
-		 * 
+		 *  Este método es una  suma entre tres vectores de la mismo numero de elementos con la ayuda de un for
 		 * @param vector1
 		 * @param vector2
 		 * @param vector3
@@ -164,7 +164,7 @@ public class vectorial  {
 		}	
 		
 			/**
-			 * 
+			 *  Este método es una  multiplicacion  entre dos vectores de la mismo numero de elementos con la ayuda de un for
 			 * @param vector1
 			 * @param vector2
 			 */
@@ -193,7 +193,7 @@ public class vectorial  {
 			}
 					}
 		/**
-		 * 
+		 *  Este método es una  multiplicacion entre tres vectores de la mismo numero de elementos con la ayuda de un for
 		 * @param vector1
 		 * @param vector2
 		 * @param vector3
@@ -238,7 +238,8 @@ public class vectorial  {
 			total=invertido;
 			}
 			/**
-			 * 
+			 * Este método es una  suma  entre los elementos del  vectores con la ayuda de un for 
+			 * y te devuelve el valor entero con un entero 
 			 * @param vector1
 			 * @return
 			 */
@@ -250,7 +251,7 @@ public class vectorial  {
 			return todo;
 					}
 			/**
-			 * 
+			 * Un método que retorna el resultado de la última operación realizada con los métodos
 			 * @return - retorna un entero
 			 */
 		public   int[] getResultado( ) {	
@@ -262,11 +263,11 @@ public class vectorial  {
 			return total;	
 		}
 		
-	public  void imprimir( int numero[]) {
+	/*public  void imprimir( int numero[]) {
 		for(int y=0;y<numero.length;y++){  // 
 			System.out.print("["+numero[y]+"]");
 		}
 		System.out.print("\n");
 				
-	}
+	}*/
 }

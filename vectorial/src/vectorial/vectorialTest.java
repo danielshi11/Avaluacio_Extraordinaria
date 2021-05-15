@@ -3,7 +3,12 @@ package vectorial;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/**
+ * test de proves que comprovi que cada mètode
+ * funciona correctament 
+ * @author Daniels11s
+ *
+ */
 public class vectorialTest {
 	
 	vectorial vectorial=new vectorial();
